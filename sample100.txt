@@ -1,3 +1,2 @@
 サルでもわかるGitコマンド
-testtest
-pull def
+add 変更をインデックスに登録する
